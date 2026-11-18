@@ -1,0 +1,6 @@
+variable "parentrg" {
+  
+}
+variable "parentstg" {
+  
+}
